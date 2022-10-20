@@ -1,4 +1,9 @@
-### Hi there 👋
+### hi! <3
+
+my name is gabrielle and im a high school senior in california. 
+currently learning/reviewing python, html, css....
+currently attending the coding school for AI/ML
+she/her
 
 <!--
 **xoxostardust/xoxostardust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
