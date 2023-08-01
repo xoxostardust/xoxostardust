@@ -1,8 +1,7 @@
 ### hi! <3
 
-my name is gabrielle and im a high school senior in california. 
+my name is gabrielle and im a college freshman in california. 
 currently learning/reviewing python, html, css....
-currently attending the coding school for AI/ML
 she/her
 
 <!--
