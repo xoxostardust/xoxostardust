@@ -1,7 +1,7 @@
 ### hi! <3
 
 <ul>
-  <li>my name is bri and im a 1st-gen latina college freshman in california.</li>
+  <li>my name is bri and im a 1st-gen latina college sophomore in california.</li>
   <li>biopsych major w/ a passion 4 comp sci & graphic design.</li>
   <li>proud TRUST officer // TRUST's website designer & dev.</li>
   <li>open 2 web dev commissions. contact me @ gabrielleyeager005@gmail.com.</li>
